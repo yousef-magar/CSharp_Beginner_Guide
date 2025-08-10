@@ -1,4 +1,3 @@
-````md
 # 🌟 C# Beginner Guide - Easy & Clear
 
 This guide helps beginners learn the basics of C# in simple English with useful examples.
