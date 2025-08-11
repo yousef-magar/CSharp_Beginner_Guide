@@ -1,5 +1,3 @@
----
-
 ## ✅ C# Beginner Guide – MCQ Study Sheet (English + Arabic)
 
 > Multiple Choice Questions with ✅ answers and **simple Arabic explanations** to help beginners study C# easily.
